@@ -1,0 +1,16 @@
+my-extension/
+  manifest.json
+  src/
+    background/
+      service-worker.js
+    popup/
+      popup.html
+      popup.js
+      popup.css
+    shared/
+      storage.js
+  assets/
+    icon16.png
+    icon48.png
+    icon128.png
+  README.md
